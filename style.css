@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+button{
+    width: 150px;
+    height: 50px;
+    color: white;
+}
+#Yes{
+    background-color: rgb(10, 161, 32);
+    border: 3px;
+    border-style: double;
+    border-color: green;
+}
+#No{
+    background-color: rgb(229, 46, 46);
+    border: 3px;
+    border-style: double;
+    border-color: rgb(151, 18, 18);
+}
